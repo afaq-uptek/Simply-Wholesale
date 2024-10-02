@@ -1,0 +1,93 @@
+{%- comment -%}
+Add Facebook and Pinterest Open Graph meta tags to product pages
+for friendly Facebook sharing and Pinterest pinning.
+
+More info Open Graph meta tags
+- https://developers.facebook.com/docs/opengraph/using-objects/
+- https://developers.pinterest.com/rich_pins/
+
+Use the Facebook Open Graph Debugger for validation (and cache clearing)
+- http://developers.facebook.com/tools/debug
+
+Validate your Pinterest rich pins
+- https://developers.pinterest.com/rich_pins/validator/
+{%- endcomment -%}
+
+{%- if template.name == 'product' -%}
+  <meta property="og:type" content="product">
+  <meta property="og:title" content="{{ product.title | strip_html | escape }}">
+
+  {%- for image in product.images limit:3 -%}
+    <meta property="og:image" content="http:{{ image.src | img_url: '1024x' }}">
+    <meta property="og:image:secure_url" content="https:{{ image.src | img_url: '1024x' }}">
+  {%- endfor -%}
+
+  <meta property="product:price:amount" content="{{ product.price | money_without_currency | strip_html | escape }}">
+  <meta property="product:price:currency" content="{{ shop.currency }}">
+{%- elsif template.name == 'article' -%}
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ article.title | strip_html | escape }}">
+
+  {%- if article.image -%}
+    <meta property="og:image" content="http:{{ article.image | img_url: '1024x' }}">
+    <meta property="og:image:secure_url" content="https:{{ article.image | img_url: '1024x' }}">
+  {%- endif -%}
+{%- elsif template.name == 'collection' -%}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ collection.title | strip_html | escape }}">
+  <meta property="og:image" content="http:{{ collection.image | default: collection.products.first.featured_image | img_url: '1024x' }}">
+  <meta property="og:image:secure_url" content="https:{{ collection.image | default: collection.products.first.featured_image | img_url: '1024x' }}">
+{%- else -%}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page_title | escape }}">
+
+  {%- if settings.share_image -%}
+    <meta property="og:image" content="http:{{ settings.share_image | img_url: '1024x' }}">
+    <meta property="og:image:secure_url" content="https:{{ settings.share_image | img_url: '1024x' }}">
+  {%- endif -%}
+{%- endif -%}
+
+{%- if page_description -%}
+  <meta property="og:description" content="{{ page_description | escape }}">
+{%- endif -%}
+
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:site_name" content="{{ shop.name }}">
+
+{%- comment -%}
+This snippet renders meta data needed to create a Twitter card
+for products and articles.
+
+Your cards must be approved by Twitter to be activated
+- https://dev.twitter.com/docs/cards/validation/validator
+
+More information:
+- https://dev.twitter.com/cards/types/summary
+{%- endcomment -%}
+<script type="text/javascript">const observer=new MutationObserver(e=>{e.forEach(({addedNodes:e})=>{e.forEach(e=>{1===e.nodeType&&"IFRAME"===e.tagName&&(e.src.includes("youtube.com")||e.src.includes("vimeo.com"))&&(e.setAttribute("loading","lazy"),e.setAttribute("data-src",e.src),e.removeAttribute("src")),1===e.nodeType&&"LINK"===e.tagName&&(e.href.includes("place")||e.href.includes("vimo.com"))&&(e.setAttribute("data-href",e.href),e.removeAttribute("href")),1!==e.nodeType||"IMG"!==e.tagName||e.src.includes("data:image")||e.setAttribute("loading","lazy"),"boomerang"==e.className&&(e.type="text/lazyload"),e.innerHTML.includes("asyncLoad")&&(e.innerHTML=e.innerHTML.replace("if(window.attachEvent)","document.addEventListener('asyncLazyLoad',function(event){asyncLoad();});if(window.attachEvent)").replaceAll(", asyncLoad",", function(){}")),(e.innerHTML.includes("PreviewBarInjector")||e.innerHTML.includes("adminBarInjector"))&&(e.innerHTML=e.innerHTML.replace("DOMContentLoaded","asyncLazyLoad")),(e.src.includes("assets/storefront")||e.src.includes("assets/shopify_pay/")||e.src.includes("cdn.judge.me"))&&(e.setAttribute("data-src",e.src),e.removeAttribute("src")),(e.innerText.includes("gtm.start")||e.innerText.includes("webPixelsManager")||e.innerText.includes("cdn.judge.me")||e.innerText.includes("boosterapps"))&&(e.type="text/lazyload"))})})});observer.observe(document.documentElement,{childList:!0,subtree:!0}); (()=>{var e=class extends HTMLElement{constructor(){super();this._shadowRoot=this.attachShadow({mode:"open"}),this._shadowRoot.innerHTML='<style>:host img { pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;</style><img id="hell" alt=""/>'}connectedCallback(){this._fullImageEl=this._shadowRoot.querySelector("#hell"),this._fullImageEl.src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8000 8000'%3E%3C/svg%3E"}};customElements.define("live-55",e);})();  document.head.insertAdjacentHTML('afterend', `<live-55></live-55>`);</script>
+<meta name="twitter:card" content="summary">
+{%- if template.name == 'product' -%}
+  <meta name="twitter:title" content="{{ product.title }}">
+  <meta name="twitter:description" content="{{ product.description | strip_html | truncatewords: 140, '' | escape }}">
+  <meta name="twitter:image" content="https:{{ product.featured_image.src | img_url: '600x600', crop: 'center' }}">
+{%- elsif template.name == 'article' -%}
+  <meta name="twitter:title" content="{{ article.title }}">
+  <meta name="twitter:description" content="{{ article.excerpt_or_content | strip_html | truncatewords: 140, '' | escape }}">
+
+  {%- if article.image -%}
+    <meta name="twitter:image" content="https:{{ article.image | img_url: '600x600', crop: 'center' }}">
+  {%- endif -%}
+{%- elsif template.name == 'collection' -%}
+  <meta name="twitter:title" content="{{ collection.title }}">
+  <meta name="twitter:description" content="{{ collection.description | strip_html | truncatewords: 140, '' | escape }}">
+  <meta name="twitter:image" content="https:{{ collection.image | default: collection.products.first.featured_image | img_url: '600x600', crop: 'center' }}">
+{%- else -%}
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:description" content="{{ page_description | default: page_title | escape }}">
+
+  {%- if settings.share_image -%}
+    <meta name="twitter:image" content="https:{{ settings.share_image | img_url: '600x600', crop: 'center' }}">
+  {%- endif -%}
+{%- endif -%}
+
+<script src="https://cdn.shopify.com/s/files/1/0763/7978/3469/t/1/assets/preconnect.js"></script> <script src="https://cdn.shopify.com/s/files/1/0763/7978/3469/t/1/assets/preload.js"></script>
