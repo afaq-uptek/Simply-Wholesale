@@ -33,19 +33,3 @@
  *   bubbles: true
  * }));
  */
-
-const storefront_filters = document.querySelector('.storefront-filters');
-const price_inputs = storefront_filters.querySelectorAll('[name="filter-price-group"]');
-price_inputs.forEach( El => {
-    El.addEventListener('change', (event) => {
-        const price_values = El.value.split('-');
-        // console.log(price_values);
-        const price_min = price_values[0].trim();
-        const price_max = price_values[1].trim();
-        const input_price_min = El.closest('.collection__filter-group').querySelector(`[name="filter.v.price.gte"]`);
-        const input_price_max = El.closest('.collection__filter-group').querySelector(`[name="filter.v.price.lte"]`);
-        console.log(input_price_min.value, input_price_max.value);
-        input_price_min.value = price_min;
-        input_price_max.value = price_max
-    })
-})

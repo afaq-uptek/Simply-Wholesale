@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "heading_color": "#3a2a2f",
@@ -44,23 +53,23 @@
     "low_inventory_threshold": 5,
     "show_reviews_badge": false,
     "cart_type": "drawer",
-    "cart_empty_button_link": "shopify:\/\/collections\/all",
+    "cart_empty_button_link": "shopify://collections/all",
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "0",
-    "share_image": "shopify:\/\/shop_images\/Simply_Wholesale.jpg",
-    "social_facebook": "https:\/\/www.facebook.com\/simp1ywholesale\/",
-    "social_twitter": "https:\/\/twitter.com\/simplywholesal1",
+    "share_image": "shopify://shop_images/Simply_Wholesale.jpg",
+    "social_facebook": "https://www.facebook.com/simp1ywholesale/",
+    "social_twitter": "https://twitter.com/simplywholesal1",
     "social_pinterest": "",
-    "social_instagram": "https:\/\/www.instagram.com\/simplywholesaleaustralia\/",
+    "social_instagram": "https://www.instagram.com/simplywholesaleaustralia/",
     "social_vimeo": "",
     "social_tumblr": "",
     "social_youtube": "",
     "social_linkedin": "",
     "social_snapchat": "",
     "social_fancy": "",
-    "favicon": "shopify:\/\/shop_images\/Simply_Wholesale_Logo_32x32pxjpg.jpg",
+    "favicon": "shopify://shop_images/Simply_Wholesale_Logo_32x32pxjpg.jpg",
     "checkout_header_image": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/sw_logo.png",
+    "checkout_logo_image": "shopify://shop_images/sw_logo.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
     "checkout_body_background_image": "",
@@ -81,10 +90,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Toys, Kids & Baby",
-              "image_1": "shopify:\/\/shop_images\/kids_400x_7dbd825a-748d-4d2f-886f-1914afbba945.webp",
+              "image_1": "shopify://shop_images/kids_400x_7dbd825a-748d-4d2f-886f-1914afbba945.webp",
               "image_1_heading": "Toys, Kids & Baby",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/toys-kids-baby",
+              "image_1_link": "shopify://collections/toys-kids-baby",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -94,10 +103,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Building & renovation",
-              "image_1": "shopify:\/\/shop_images\/bathroom.jpg",
+              "image_1": "shopify://shop_images/bathroom.jpg",
               "image_1_heading": "Building & renovation",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/building-renovation",
+              "image_1_link": "shopify://collections/building-renovation",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -107,7 +116,7 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Fashion & clothing",
-              "image_1": "shopify:\/\/shop_images\/AUS-Slider_Homepage_1800x600_UGGcomfortme_1800x_8df897d7-5152-4f8f-ac50-b13c957e3f1e.png",
+              "image_1": "shopify://shop_images/AUS-Slider_Homepage_1800x600_UGGcomfortme_1800x_8df897d7-5152-4f8f-ac50-b13c957e3f1e.png",
               "image_1_heading": "Your image",
               "image_1_text": "Tell your story",
               "image_1_link": "",
@@ -120,10 +129,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Computers",
-              "image_1": "shopify:\/\/shop_images\/electronics_16a23b7c-e2f8-4f5a-b6d1-18aa85630033.jpg",
+              "image_1": "shopify://shop_images/electronics_16a23b7c-e2f8-4f5a-b6d1-18aa85630033.jpg",
               "image_1_heading": "Computers",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/computers",
+              "image_1_link": "shopify://collections/computers",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -133,10 +142,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Electronics & Photography",
-              "image_1": "shopify:\/\/shop_images\/electronics_8898bb78-e9b2-4285-b0d4-2d9d9e6f1226.jpg",
+              "image_1": "shopify://shop_images/electronics_8898bb78-e9b2-4285-b0d4-2d9d9e6f1226.jpg",
               "image_1_heading": "Electronics & Photography",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/electronics-photography",
+              "image_1_link": "shopify://collections/electronics-photography",
               "image_2_heading": "",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -146,10 +155,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Health & Beauty",
-              "image_1": "shopify:\/\/shop_images\/Immunity.jpg",
+              "image_1": "shopify://shop_images/Immunity.jpg",
               "image_1_heading": "Health & Beauty",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/health-beauty-1",
+              "image_1_link": "shopify://collections/health-beauty-1",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -159,7 +168,7 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Home & Living",
-              "image_1": "shopify:\/\/shop_images\/home_81c42cf8-a51c-4cc9-be21-b6ac6c29c48f.jpg",
+              "image_1": "shopify://shop_images/home_81c42cf8-a51c-4cc9-be21-b6ac6c29c48f.jpg",
               "image_1_heading": "",
               "image_1_text": "",
               "image_1_link": "",
@@ -172,7 +181,7 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Jewellery & Accessories",
-              "image_1": "shopify:\/\/shop_images\/11214367_622882834520764_6740540815075845187_n.jpg",
+              "image_1": "shopify://shop_images/11214367_622882834520764_6740540815075845187_n.jpg",
               "image_1_heading": "Jewellery & Accessories",
               "image_1_text": "",
               "image_1_link": "",
@@ -185,10 +194,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Music & Instruments",
-              "image_1": "shopify:\/\/shop_images\/Guitar.jpg",
+              "image_1": "shopify://shop_images/Guitar.jpg",
               "image_1_heading": "Music & Instruments",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/music-instruments",
+              "image_1_link": "shopify://collections/music-instruments",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -198,10 +207,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Garden, Tools & Equipment",
-              "image_1": "shopify:\/\/shop_images\/garden_05e5c22f-d172-4645-83ec-4012aaaebd5e.jpg",
+              "image_1": "shopify://shop_images/garden_05e5c22f-d172-4645-83ec-4012aaaebd5e.jpg",
               "image_1_heading": "Garden, Tools & Equipment",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/garden-tools-equipment",
+              "image_1_link": "shopify://collections/garden-tools-equipment",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -211,7 +220,7 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Pet Supplies",
-              "image_1": "shopify:\/\/shop_images\/Pet_Cat_Tree_3d3014df-4c14-49c2-b9fb-f9448f04fd1f.jpg",
+              "image_1": "shopify://shop_images/Pet_Cat_Tree_3d3014df-4c14-49c2-b9fb-f9448f04fd1f.jpg",
               "image_1_heading": "Dogs & cats",
               "image_1_text": "",
               "image_1_link": "",
@@ -224,10 +233,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Sports & Outdoor",
-              "image_1": "shopify:\/\/shop_images\/inflatable.jpg",
+              "image_1": "shopify://shop_images/inflatable.jpg",
               "image_1_heading": "Sports & Outdoor",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/sports-outdoor-1",
+              "image_1_link": "shopify://collections/sports-outdoor-1",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -237,10 +246,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Vehicles & parts",
-              "image_1": "shopify:\/\/shop_images\/Warehouse_Rack.jpg",
+              "image_1": "shopify://shop_images/Warehouse_Rack.jpg",
               "image_1_heading": "Vehicles & parts",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/vehicles-parts",
+              "image_1_link": "shopify://collections/vehicles-parts",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -250,10 +259,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Furniture",
-              "image_1": "shopify:\/\/shop_images\/furniture_400x_f5fe3ddf-ef90-4e85-836d-ec53b65f9331.webp",
+              "image_1": "shopify://shop_images/furniture_400x_f5fe3ddf-ef90-4e85-836d-ec53b65f9331.webp",
               "image_1_heading": "Furniture",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/main-furniture",
+              "image_1_link": "shopify://collections/main-furniture",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -263,10 +272,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Appliances",
-              "image_1": "shopify:\/\/shop_images\/Kitchen_Appliance.jpg",
+              "image_1": "shopify://shop_images/Kitchen_Appliance.jpg",
               "image_1_heading": "Appliances",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/appliances-1",
+              "image_1_link": "shopify://collections/appliances-1",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -276,10 +285,10 @@
             "type": "mega_menu",
             "settings": {
               "menu_item": "Adult",
-              "image_1": "shopify:\/\/shop_images\/adult_400x_9edddd3b-c0ec-4edc-a86a-65b1bee89856.webp",
+              "image_1": "shopify://shop_images/adult_400x_9edddd3b-c0ec-4edc-a86a-65b1bee89856.webp",
               "image_1_heading": "Adult",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/adult",
+              "image_1_link": "shopify://collections/adult",
               "image_2_heading": "Your image",
               "image_2_text": "Tell your story",
               "image_2_link": ""
@@ -306,7 +315,7 @@
         ],
         "settings": {
           "enable_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/sw_logo.png",
+          "logo": "shopify://shop_images/sw_logo.png",
           "logo_max_width": 300,
           "mobile_logo_max_width": 170,
           "navigation_menu": "main-menu",
@@ -328,7 +337,7 @@
             "type": "text",
             "settings": {
               "title": "ABOUT US",
-              "content": "<p>Simply Wholesale has a mission to offer high quality products at competitive prices. We pride ourselves in personalised service and offering a huge product range sourced from reliable supplier networks.<\/p><p>ACKNOWLEDGEMENT OF COUNTRY<\/p><p>Simply Wholesale celebrates and acknowledges the traditional custodians of the land on which we live and work. We pay our respects to Elders past, present and emerging for their generosity and custodianship of Country.<\/p>"
+              "content": "<p>Simply Wholesale has a mission to offer high quality products at competitive prices. We pride ourselves in personalised service and offering a huge product range sourced from reliable supplier networks.</p><p>ACKNOWLEDGEMENT OF COUNTRY</p><p>Simply Wholesale celebrates and acknowledges the traditional custodians of the land on which we live and work. We pay our respects to Elders past, present and emerging for their generosity and custodianship of Country.</p>"
             }
           },
           "1571262870743": {
@@ -347,7 +356,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Newsletter",
-              "subheading": "<p>Receive our daily amazing offers right in your inbox. Subscribe & Save!<\/p>"
+              "subheading": "<p>Receive our daily amazing offers right in your inbox. Subscribe & Save!</p>"
             }
           }
         },
@@ -361,7 +370,7 @@
           "show_social_media": true,
           "show_payment_icons": true,
           "show_cookie_bar": false,
-          "text": "<p>Use this bar to show information about your cookie policy.<\/p>",
+          "text": "<p>Use this bar to show information about your cookie policy.</p>",
           "accept_button": "Accept"
         }
       },
@@ -371,8 +380,8 @@
           "f37f5f66-db53-40d4-a7f2-863f9a858383": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Heaters_35f84231-758d-4ba1-856b-abf5956873e2.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Heaters_35f84231-758d-4ba1-856b-abf5956873e2.jpg",
+              "image": "shopify://shop_images/Heaters_35f84231-758d-4ba1-856b-abf5956873e2.jpg",
+              "mobile_image": "shopify://shop_images/Heaters_35f84231-758d-4ba1-856b-abf5956873e2.jpg",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -382,14 +391,14 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "https:\/\/www.simplywholesale.com.au\/pages\/search-results-page?q=electric+heater"
+              "link": "https://www.simplywholesale.com.au/pages/search-results-page?q=electric+heater"
             }
           },
           "3607f18c-0c01-4611-a9da-c42435ccdfec": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/heater_1931f3a3-dd76-4094-9eff-a9611ad7ac7b.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/heater_1931f3a3-dd76-4094-9eff-a9611ad7ac7b.jpg",
+              "image": "shopify://shop_images/heater_1931f3a3-dd76-4094-9eff-a9611ad7ac7b.jpg",
+              "mobile_image": "shopify://shop_images/heater_1931f3a3-dd76-4094-9eff-a9611ad7ac7b.jpg",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -399,14 +408,14 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "https:\/\/www.simplywholesale.com.au\/pages\/search-results-page?q=electric+heater"
+              "link": "https://www.simplywholesale.com.au/pages/search-results-page?q=electric+heater"
             }
           },
           "slide-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/BANNER_001_c066857c-cbbe-462c-8276-542ea8eb2235.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/BANNER_001_c066857c-cbbe-462c-8276-542ea8eb2235.jpg",
+              "image": "shopify://shop_images/BANNER_001_c066857c-cbbe-462c-8276-542ea8eb2235.jpg",
+              "mobile_image": "shopify://shop_images/BANNER_001_c066857c-cbbe-462c-8276-542ea8eb2235.jpg",
               "show_overlay": true,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -416,14 +425,14 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "https:\/\/www.simplywholesale.com.au\/pages\/search-results-page?q=massage+chair"
+              "link": "https://www.simplywholesale.com.au/pages/search-results-page?q=massage+chair"
             }
           },
           "e6656f2e-fecb-41bc-8a1c-ccefb84c5800": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/sink_kitchen.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/sink_kitchen.jpg",
+              "image": "shopify://shop_images/sink_kitchen.jpg",
+              "mobile_image": "shopify://shop_images/sink_kitchen.jpg",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -433,7 +442,7 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "https:\/\/www.simplywholesale.com.au\/pages\/search-results-page?q=kitchen+sink"
+              "link": "https://www.simplywholesale.com.au/pages/search-results-page?q=kitchen+sink"
             }
           }
         },
@@ -459,42 +468,42 @@
             "type": "collection",
             "settings": {
               "collection": "health-beauty",
-              "image": "shopify:\/\/shop_images\/beauty.jpeg"
+              "image": "shopify://shop_images/beauty.jpeg"
             }
           },
           "collection-1": {
             "type": "collection",
             "settings": {
               "collection": "gardening",
-              "image": "shopify:\/\/shop_images\/garden.jpg"
+              "image": "shopify://shop_images/garden.jpg"
             }
           },
           "collection-2": {
             "type": "collection",
             "settings": {
               "collection": "adult",
-              "image": "shopify:\/\/shop_images\/adult.jpg"
+              "image": "shopify://shop_images/adult.jpg"
             }
           },
           "collection-3": {
             "type": "collection",
             "settings": {
               "collection": "camping",
-              "image": "shopify:\/\/shop_images\/Camping.jpeg"
+              "image": "shopify://shop_images/Camping.jpeg"
             }
           },
           "collection-4": {
             "type": "collection",
             "settings": {
               "collection": "furniture",
-              "image": "shopify:\/\/shop_images\/furniture.jpeg"
+              "image": "shopify://shop_images/furniture.jpeg"
             }
           },
           "collection-5": {
             "type": "collection",
             "settings": {
               "collection": "baby-kids-toys",
-              "image": "shopify:\/\/shop_images\/kids.jpeg"
+              "image": "shopify://shop_images/kids.jpeg"
             }
           }
         },
@@ -509,7 +518,7 @@
         "settings": {
           "title": "Featured Categories",
           "link_title": "View all",
-          "link": "shopify:\/\/collections",
+          "link": "shopify://collections",
           "round_images": false,
           "show_collection_title": true
         }
@@ -594,7 +603,7 @@
           "show_newsletter": true,
           "newsletter_button": "Subscribe & Save",
           "newsletter_title": "Newsletter",
-          "newsletter_content": "<p>Subscribe to be the first to hear about our daily exclusive offers and latest arrivals!<\/p>"
+          "newsletter_content": "<p>Subscribe to be the first to hear about our daily exclusive offers and latest arrivals!</p>"
         }
       },
       "1542984811767": {
@@ -607,7 +616,7 @@
           "stack_desktop": false,
           "show_quick_buy": false,
           "link_title": "View all",
-          "link_url": "shopify:\/\/collections\/new-arrivals"
+          "link_url": "shopify://collections/new-arrivals"
         }
       },
       "1550833441117": {
@@ -615,7 +624,7 @@
         "settings": {
           "collection": "electronics-best-sellers",
           "products_count": 48,
-          "image": "shopify:\/\/shop_images\/1000x667.png",
+          "image": "shopify://shop_images/1000x667.png",
           "background": "#3a2a2f",
           "text_color": "#ffffff",
           "title": "Top Rated",
@@ -623,7 +632,7 @@
           "button_background": "#e95d2b",
           "button_text_color": "#ffffff",
           "button_text": "Shop Now",
-          "button_link": "shopify:\/\/collections\/rugs"
+          "button_link": "shopify://collections/rugs"
         }
       },
       "1555314133560": {
@@ -632,7 +641,7 @@
           "1555314133560-1": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/home.jpg",
+              "image": "shopify://shop_images/home.jpg",
               "show_overlay": true,
               "overlay_opacity": 100,
               "stretch_image": true,
@@ -644,13 +653,13 @@
               "button_background": "#ffffff",
               "button_text_color": "#fc2a68",
               "button_text": "Shop Now",
-              "button_link": "shopify:\/\/collections\/home-garden"
+              "button_link": "shopify://collections/home-garden"
             }
           },
           "1555314133560-2": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/gym-weight-lifting.jpg",
+              "image": "shopify://shop_images/gym-weight-lifting.jpg",
               "show_overlay": true,
               "overlay_opacity": 100,
               "stretch_image": true,
@@ -662,13 +671,13 @@
               "button_background": "#ffffff",
               "button_text_color": "#26c1ce",
               "button_text": "Shop Now",
-              "button_link": "shopify:\/\/collections\/sports-outdoor"
+              "button_link": "shopify://collections/sports-outdoor"
             }
           },
           "1599316521541": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/fishing.jpg",
+              "image": "shopify://shop_images/fishing.jpg",
               "show_overlay": false,
               "overlay_opacity": 100,
               "stretch_image": true,
@@ -680,13 +689,13 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "Shop Now",
-              "button_link": "shopify:\/\/collections\/fishing"
+              "button_link": "shopify://collections/fishing"
             }
           },
           "1555314133560-0": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/electronics.jpg",
+              "image": "shopify://shop_images/electronics.jpg",
               "show_overlay": true,
               "overlay_opacity": 100,
               "stretch_image": true,
@@ -698,13 +707,13 @@
               "button_background": "#ffffff",
               "button_text_color": "#6f42ef",
               "button_text": "Shop Now",
-              "button_link": "shopify:\/\/collections\/electronics"
+              "button_link": "shopify://collections/electronics"
             }
           },
           "1599320032667": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/inflatable.jpeg",
+              "image": "shopify://shop_images/inflatable.jpeg",
               "show_overlay": false,
               "overlay_opacity": 100,
               "stretch_image": true,
@@ -716,13 +725,13 @@
               "button_background": "#ffffff",
               "button_text_color": "#ffb647",
               "button_text": "Shop Now",
-              "button_link": "shopify:\/\/collections\/games-leisure"
+              "button_link": "shopify://collections/games-leisure"
             }
           },
           "1599320397817": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/bath.jpeg",
+              "image": "shopify://shop_images/bath.jpeg",
               "show_overlay": false,
               "overlay_opacity": 100,
               "stretch_image": true,
@@ -734,7 +743,7 @@
               "button_background": "#ffffff",
               "button_text_color": "#48b448",
               "button_text": "Shop Now",
-              "button_link": "shopify:\/\/collections\/bathroom-decor"
+              "button_link": "shopify://collections/bathroom-decor"
             }
           },
           "5ed0eab5-4dec-4958-87b9-18343cce2343": {
@@ -798,7 +807,7 @@
             "settings": {
               "icon": "bi-gift-wrap",
               "title": "Over 500,000 Products",
-              "content": "<p>Across a huge range of categories<\/p>"
+              "content": "<p>Across a huge range of categories</p>"
             }
           },
           "text-with-icons-1": {
@@ -806,7 +815,7 @@
             "settings": {
               "icon": "bi-fast-delivery",
               "title": "Fast Deliveries",
-              "content": "<p>Delivered to your door<\/p>"
+              "content": "<p>Delivered to your door</p>"
             }
           },
           "text-with-icons-2": {
@@ -814,7 +823,7 @@
             "settings": {
               "icon": "bi-delivery",
               "title": "Free Shipping",
-              "content": "<p>Australia Wide<\/p>"
+              "content": "<p>Australia Wide</p>"
             }
           },
           "text-with-icons-3": {
@@ -822,7 +831,7 @@
             "settings": {
               "icon": "bi-secure-payment",
               "title": "Secure payments",
-              "content": "<p>Amex, Visa, Mastercard, Paypal, Afterpay, Zip Pay<\/p>"
+              "content": "<p>Amex, Visa, Mastercard, Paypal, Afterpay, Zip Pay</p>"
             }
           }
         },
@@ -858,7 +867,7 @@
         "settings": {
           "show_section": true,
           "title": "Subscribe to our newsletter",
-          "content": "<p>Subscribe to be the first to hear about our exclusive offers and latest arrivals!<\/p>",
+          "content": "<p>Subscribe to be the first to hear about our exclusive offers and latest arrivals!</p>",
           "subtext": "100% free, Unsubscribe any time!",
           "background": "#211f1f",
           "text": "#ffffff"
@@ -870,715 +879,715 @@
           "logo_VF6BCW": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/ACA_Logo_198a0e9e-0c71-4a48-8fe0-3e0f34abb50c.jpg",
-              "link": "shopify:\/\/collections\/aca-trading"
+              "image": "shopify://shop_images/ACA_Logo_198a0e9e-0c71-4a48-8fe0-3e0f34abb50c.jpg",
+              "link": "shopify://collections/aca-trading"
             }
           },
           "99922b7e-7169-4634-9f59-6d0046983e16": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/adidas_1.png",
-              "link": "shopify:\/\/collections\/adidas"
+              "image": "shopify://shop_images/adidas_1.png",
+              "link": "shopify://collections/adidas"
             }
           },
           "3bcff8b0-a7ec-4e47-8162-ae2bd178bcd0": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Alfordson.jpg",
-              "link": "shopify:\/\/collections\/alfordson"
+              "image": "shopify://shop_images/Alfordson.jpg",
+              "link": "shopify://collections/alfordson"
             }
           },
           "6498759c-b5b8-48a7-b47b-3bba1bf28f54": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Alogic_250x80px.jpg",
-              "link": "shopify:\/\/collections\/alogic"
+              "image": "shopify://shop_images/Alogic_250x80px.jpg",
+              "link": "shopify://collections/alogic"
             }
           },
           "0ea0f3fa-40c3-41b5-b507-1551f6abf510": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Artiss_250x80px.jpg",
-              "link": "shopify:\/\/collections\/artiss"
+              "image": "shopify://shop_images/Artiss_250x80px.jpg",
+              "link": "shopify://collections/artiss"
             }
           },
           "7ca8f2c5-68e6-4117-8462-e5ebf820411b": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/asics_2.png",
-              "link": "shopify:\/\/collections\/asics"
+              "image": "shopify://shop_images/asics_2.png",
+              "link": "shopify://collections/asics"
             }
           },
           "4599e367-0a40-4245-81d4-b4b4f56c7287": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Astrotek_250x80px.jpg",
-              "link": "shopify:\/\/collections\/astrotek"
+              "image": "shopify://shop_images/Astrotek_250x80px.jpg",
+              "link": "shopify://collections/astrotek"
             }
           },
           "fff95b96-d194-44fd-a470-5c136acea96d": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Asus_250x80px.jpg",
-              "link": "shopify:\/\/collections\/asus"
+              "image": "shopify://shop_images/Asus_250x80px.jpg",
+              "link": "shopify://collections/asus"
             }
           },
           "00d4704b-d6af-40b6-8a8b-e7f348934f39": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Atdec_250x80px.jpg",
-              "link": "shopify:\/\/collections\/atdec-1"
+              "image": "shopify://shop_images/Atdec_250x80px.jpg",
+              "link": "shopify://collections/atdec-1"
             }
           },
           "b3db44db-8926-4675-8441-19f3f4836a4e": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Avantree_250x80px.jpg",
-              "link": "shopify:\/\/collections\/avantree"
+              "image": "shopify://shop_images/Avantree_250x80px.jpg",
+              "link": "shopify://collections/avantree"
             }
           },
           "1570620170395-0": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Bambury.jpg",
-              "link": "shopify:\/\/collections\/bambury"
+              "image": "shopify://shop_images/Bambury.jpg",
+              "link": "shopify://collections/bambury"
             }
           },
           "43ff9dda-e86a-4841-a9be-ef5eb947cb13": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Beastie.jpg",
-              "link": "shopify:\/\/collections\/beastie"
+              "image": "shopify://shop_images/Beastie.jpg",
+              "link": "shopify://collections/beastie"
             }
           },
           "1599321031636": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Belkin_250x80px.jpg",
-              "link": "shopify:\/\/collections\/belkin"
+              "image": "shopify://shop_images/Belkin_250x80px.jpg",
+              "link": "shopify://collections/belkin"
             }
           },
           "0de70401-fc7e-47c6-9f5f-a4044bcea5bb": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Benetech_250x80px.jpg",
-              "link": "shopify:\/\/collections\/benetech"
+              "image": "shopify://shop_images/Benetech_250x80px.jpg",
+              "link": "shopify://collections/benetech"
             }
           },
           "5a87ae13-3cff-447d-82be-8b598fefd337": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Bestway_250x80px.jpg",
-              "link": "shopify:\/\/collections\/bestway"
+              "image": "shopify://shop_images/Bestway_250x80px.jpg",
+              "link": "shopify://collections/bestway"
             }
           },
           "4f1503a4-9e89-45e7-9f38-9f9b9de6eb1f": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Birkenstock.jpg",
-              "link": "shopify:\/\/collections\/birkenstock"
+              "image": "shopify://shop_images/Birkenstock.jpg",
+              "link": "shopify://collections/birkenstock"
             }
           },
           "ad02c6e5-6b4a-4e11-8cef-2f6b60b367ef": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Black-Lord.jpg",
-              "link": "shopify:\/\/collections\/black-lord"
+              "image": "shopify://shop_images/Black-Lord.jpg",
+              "link": "shopify://collections/black-lord"
             }
           },
           "1599321161457": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Brateck-600x315w.png",
-              "link": "shopify:\/\/collections\/brateck"
+              "image": "shopify://shop_images/Brateck-600x315w.png",
+              "link": "shopify://collections/brateck"
             }
           },
           "1570620170395-1": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/brother_250x80px.jpg",
-              "link": "shopify:\/\/collections\/brother"
+              "image": "shopify://shop_images/brother_250x80px.jpg",
+              "link": "shopify://collections/brother"
             }
           },
           "6cbb9a01-22a9-42f2-aa2c-d5d75e068533": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Cabac_250x80px.jpg",
-              "link": "shopify:\/\/collections\/cabac"
+              "image": "shopify://shop_images/Cabac_250x80px.jpg",
+              "link": "shopify://collections/cabac"
             }
           },
           "b7378c03-14aa-4d51-bf96-2dffe59db157": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Calibor_250x80px.jpg",
-              "link": "shopify:\/\/collections\/calibor"
+              "image": "shopify://shop_images/Calibor_250x80px.jpg",
+              "link": "shopify://collections/calibor"
             }
           },
           "dc9b2aa3-e72c-408b-a6a9-203cc3f6c3c0": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/CambiumNetworks_250x80px.jpg",
-              "link": "shopify:\/\/collections\/cambium-networks"
+              "image": "shopify://shop_images/CambiumNetworks_250x80px.jpg",
+              "link": "shopify://collections/cambium-networks"
             }
           },
           "0ae4a7a0-f50b-4e7b-b945-036dab08903f": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/CameronSino_250x80px_fe1bbaee-b9a7-4211-a105-76a6f5b2ccf4.jpg",
-              "link": "shopify:\/\/collections\/cameron-sino"
+              "image": "shopify://shop_images/CameronSino_250x80px_fe1bbaee-b9a7-4211-a105-76a6f5b2ccf4.jpg",
+              "link": "shopify://collections/cameron-sino"
             }
           },
           "1570620170395-2": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Canon.JPG",
-              "link": "shopify:\/\/collections\/canon"
+              "image": "shopify://shop_images/Canon.JPG",
+              "link": "shopify://collections/canon"
             }
           },
           "67de8db8-a157-442d-9c52-1301041774b0": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Cefito_250x80px.jpg",
-              "link": "shopify:\/\/collections\/cefito"
+              "image": "shopify://shop_images/Cefito_250x80px.jpg",
+              "link": "shopify://collections/cefito"
             }
           },
           "606c76ff-2103-4d2f-aefb-06d9089d8945": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Compulocks_250x80px.jpg",
-              "link": "shopify:\/\/collections\/compulocks"
+              "image": "shopify://shop_images/Compulocks_250x80px.jpg",
+              "link": "shopify://collections/compulocks"
             }
           },
           "2a27c283-eece-491c-80e1-ffa1603ff70f": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/converse-new1270.jpg",
-              "link": "shopify:\/\/collections\/converse"
+              "image": "shopify://shop_images/converse-new1270.jpg",
+              "link": "shopify://collections/converse"
             }
           },
           "579115d9-88a6-46c0-ac9a-1617688bb922": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/CoolerMaster_250x80px.jpg",
-              "link": "shopify:\/\/collections\/cooler-master"
+              "image": "shopify://shop_images/CoolerMaster_250x80px.jpg",
+              "link": "shopify://collections/cooler-master"
             }
           },
           "7ec9f3a7-45f2-4c3e-b38d-e3ddc5e60904": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Corsair_250x80px.jpg",
-              "link": "shopify:\/\/collections\/corsair"
+              "image": "shopify://shop_images/Corsair_250x80px.jpg",
+              "link": "shopify://collections/corsair"
             }
           },
           "597bfbd7-0e99-4ba8-a1a5-197bf06593e0": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Crucial_250x80px.jpg",
-              "link": "shopify:\/\/collections\/crucial"
+              "image": "shopify://shop_images/Crucial_250x80px.jpg",
+              "link": "shopify://collections/crucial"
             }
           },
           "cfcd0909-b805-45ed-952e-47f210a7bef1": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/CyberPower_250x80px.jpg",
-              "link": "shopify:\/\/collections\/cyberpower"
+              "image": "shopify://shop_images/CyberPower_250x80px.jpg",
+              "link": "shopify://collections/cyberpower"
             }
           },
           "e85a85be-0811-434e-bcdf-e9d2d1288fd9": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/DataLogic_250x80px.jpg",
-              "link": "shopify:\/\/collections\/datalogic"
+              "image": "shopify://shop_images/DataLogic_250x80px.jpg",
+              "link": "shopify://collections/datalogic"
             }
           },
           "215caf3c-daae-415c-b176-d7bd6ae2e419": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Devanti_250x80px.jpg",
-              "link": "shopify:\/\/collections\/devanti"
+              "image": "shopify://shop_images/Devanti_250x80px.jpg",
+              "link": "shopify://collections/devanti"
             }
           },
           "514b57ff-37a7-46da-82b8-cf18f90be5fb": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Doss_250x80px.jpg",
-              "link": "shopify:\/\/collections\/doss"
+              "image": "shopify://shop_images/Doss_250x80px.jpg",
+              "link": "shopify://collections/doss"
             }
           },
           "cabb0c59-273e-4230-8f7c-5dbade24cd3c": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/DLink_250x80px.jpg",
-              "link": "shopify:\/\/collections\/dlink"
+              "image": "shopify://shop_images/DLink_250x80px.jpg",
+              "link": "shopify://collections/dlink"
             }
           },
           "7f4a186f-9f65-4d57-b7b2-1aa1e6c596cc": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Epson_250x80px.jpg",
-              "link": "shopify:\/\/collections\/epson"
+              "image": "shopify://shop_images/Epson_250x80px.jpg",
+              "link": "shopify://collections/epson"
             }
           },
           "7c846899-4250-4954-b11d-d33fef843c77": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Everki_250x80px.jpg",
-              "link": "shopify:\/\/collections\/everki"
+              "image": "shopify://shop_images/Everki_250x80px.jpg",
+              "link": "shopify://collections/everki"
             }
           },
           "a88b30a9-9a86-4e89-8ec7-a9b80f2f54e2": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/FirstAidKitsAustralia_250x80px.jpg",
-              "link": "shopify:\/\/collections\/first-aid"
+              "image": "shopify://shop_images/FirstAidKitsAustralia_250x80px.jpg",
+              "link": "shopify://collections/first-aid"
             }
           },
           "8bb065d9-dd63-40c8-9d8e-08a9ea017d16": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Fujitsu_250x80px.jpg",
-              "link": "shopify:\/\/collections\/fujitsu"
+              "image": "shopify://shop_images/Fujitsu_250x80px.jpg",
+              "link": "shopify://collections/fujitsu"
             }
           },
           "01d96661-a163-4511-801b-e84ef6cf6686": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Gardeon_250x80px.jpg",
-              "link": "shopify:\/\/collections\/gardeon"
+              "image": "shopify://shop_images/Gardeon_250x80px.jpg",
+              "link": "shopify://collections/gardeon"
             }
           },
           "394b8b5c-e09d-4507-9ef4-c3af390542f6": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Giantz_250x80px.jpg",
-              "link": "shopify:\/\/collections\/giantz"
+              "image": "shopify://shop_images/Giantz_250x80px.jpg",
+              "link": "shopify://collections/giantz"
             }
           },
           "a818f39d-1260-4f95-bd7c-b6f66eb0577e": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Gigabyte_250x80px.jpg",
-              "link": "shopify:\/\/collections\/gigabyte"
+              "image": "shopify://shop_images/Gigabyte_250x80px.jpg",
+              "link": "shopify://collections/gigabyte"
             }
           },
           "54f459ed-1e81-4e8a-ad89-ef695dc50785": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/GiselleBedding_250x80px.jpg",
-              "link": "shopify:\/\/collections\/giselle-bedding"
+              "image": "shopify://shop_images/GiselleBedding_250x80px.jpg",
+              "link": "shopify://collections/giselle-bedding"
             }
           },
           "c7c0d55b-ea38-4c6c-b221-ccecae8efa94": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Gumdrop_250x80px.jpg",
-              "link": "shopify:\/\/collections\/gumdrop"
+              "image": "shopify://shop_images/Gumdrop_250x80px.jpg",
+              "link": "shopify://collections/gumdrop"
             }
           },
           "30d4bb50-4005-4a87-9e74-17b3a0419cf3": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Gunnar_250x80px.jpg",
-              "link": "shopify:\/\/collections\/gunnar"
+              "image": "shopify://shop_images/Gunnar_250x80px.jpg",
+              "link": "shopify://collections/gunnar"
             }
           },
           "43eb6168-5856-4aaa-bfdf-3a53cd668527": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Honeywel_250x80px.jpg",
-              "link": "shopify:\/\/collections\/honeywell"
+              "image": "shopify://shop_images/Honeywel_250x80px.jpg",
+              "link": "shopify://collections/honeywell"
             }
           },
           "8b824022-5ac6-47f4-be73-4e28afe293c5": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/HuntKey_250x80px.jpg",
-              "link": "shopify:\/\/collections\/huntkey"
+              "image": "shopify://shop_images/HuntKey_250x80px.jpg",
+              "link": "shopify://collections/huntkey"
             }
           },
           "427811bf-f16a-491b-a102-c1596e21519a": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Hypertec_250x80px.jpg",
-              "link": "shopify:\/\/collections\/hypertec"
+              "image": "shopify://shop_images/Hypertec_250x80px.jpg",
+              "link": "shopify://collections/hypertec"
             }
           },
           "1599317826590": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IBM_250x80px.jpg",
-              "link": "shopify:\/\/collections\/ibm"
+              "image": "shopify://shop_images/IBM_250x80px.jpg",
+              "link": "shopify://collections/ibm"
             }
           },
           "42a8cc2f-40da-4658-94d5-c846cd554e91": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Intel_250x80px.jpg",
-              "link": "shopify:\/\/collections\/intel"
+              "image": "shopify://shop_images/Intel_250x80px.jpg",
+              "link": "shopify://collections/intel"
             }
           },
           "9a87a4a5-22d2-45bd-9bc4-58340918dd8d": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Jabra_250x80px.jpg",
-              "link": "shopify:\/\/collections\/jabra"
+              "image": "shopify://shop_images/Jabra_250x80px.jpg",
+              "link": "shopify://collections/jabra"
             }
           },
           "1bf2151e-9e6c-47a1-ae1d-64d4ef7fc96c": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/JingleJollys_250x80px.jpg",
-              "link": "shopify:\/\/collections\/jingle-jollys"
+              "image": "shopify://shop_images/JingleJollys_250x80px.jpg",
+              "link": "shopify://collections/jingle-jollys"
             }
           },
           "56350dc3-a235-4721-8754-47a32661bba8": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/J5_250x80px.jpg",
-              "link": "shopify:\/\/collections\/j5create"
+              "image": "shopify://shop_images/J5_250x80px.jpg",
+              "link": "shopify://collections/j5create"
             }
           },
           "76361aaf-7095-4387-986d-ab37c49a3e89": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Kensington_250x80px.jpg",
-              "link": "shopify:\/\/collections\/kensington"
+              "image": "shopify://shop_images/Kensington_250x80px.jpg",
+              "link": "shopify://collections/kensington"
             }
           },
           "d4180997-a6c6-4aca-8476-28f2f35f5c50": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Kingston_250x80px.jpg",
-              "link": "shopify:\/\/collections\/kingston"
+              "image": "shopify://shop_images/Kingston_250x80px.jpg",
+              "link": "shopify://collections/kingston"
             }
           },
           "e81ad05d-ae1d-4d66-947c-5caca11d7de0": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Kogan_logo.jpg",
-              "link": "shopify:\/\/collections\/kogan"
+              "image": "shopify://shop_images/Kogan_logo.jpg",
+              "link": "shopify://collections/kogan"
             }
           },
           "f833782e-2703-4c0d-92f6-c8862d268607": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Kyocera_250x80px.jpg",
-              "link": "shopify:\/\/collections\/kyocera"
+              "image": "shopify://shop_images/Kyocera_250x80px.jpg",
+              "link": "shopify://collections/kyocera"
             }
           },
           "7c4c4196-0ee2-496e-a670-29be733ee295": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Laser_250x80px.jpg",
-              "link": "shopify:\/\/collections\/laser"
+              "image": "shopify://shop_images/Laser_250x80px.jpg",
+              "link": "shopify://collections/laser"
             }
           },
           "458e6b90-8db9-489e-aeb9-134b631a34db": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Lenovo_250x80px.jpg",
-              "link": "shopify:\/\/collections\/lenovo"
+              "image": "shopify://shop_images/Lenovo_250x80px.jpg",
+              "link": "shopify://collections/lenovo"
             }
           },
           "1570620170395-3": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Logitech.jpg",
-              "link": "shopify:\/\/collections\/logitech"
+              "image": "shopify://shop_images/Logitech.jpg",
+              "link": "shopify://collections/logitech"
             }
           },
           "95d50867-21b7-4f0e-a015-633ce4a0f196": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Logitech_250x80px.jpg",
-              "link": "shopify:\/\/collections\/logitech"
+              "image": "shopify://shop_images/Logitech_250x80px.jpg",
+              "link": "shopify://collections/logitech"
             }
           },
           "55d036b9-9c41-4830-8b4b-91b7f1c23c01": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Mbeat_250x80px.jpg",
-              "link": "shopify:\/\/collections\/mbeat"
+              "image": "shopify://shop_images/Mbeat_250x80px.jpg",
+              "link": "shopify://collections/mbeat"
             }
           },
           "9989bff6-9017-4f6a-8661-7e5fbbc31746": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Morgan_250x80px.jpg",
-              "link": "shopify:\/\/collections\/morgan-sports"
+              "image": "shopify://shop_images/Morgan_250x80px.jpg",
+              "link": "shopify://collections/morgan-sports"
             }
           },
           "a13e0214-0fd2-4b47-a055-7ecd5da6caf3": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nike-just-do-it-logo-5F8374ABB9-seeklogo.com.png",
-              "link": "shopify:\/\/collections\/nike"
+              "image": "shopify://shop_images/nike-just-do-it-logo-5F8374ABB9-seeklogo.com.png",
+              "link": "shopify://collections/nike"
             }
           },
           "4f34e3a2-834b-4202-97f0-551424c011ef": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Oki_250x80px.jpg",
-              "link": "shopify:\/\/collections\/oki"
+              "image": "shopify://shop_images/Oki_250x80px.jpg",
+              "link": "shopify://collections/oki"
             }
           },
           "c3609279-d797-4989-86bf-909e882a2a3f": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Orico_250x80px.jpg",
-              "link": "shopify:\/\/collections\/orico"
+              "image": "shopify://shop_images/Orico_250x80px.jpg",
+              "link": "shopify://collections/orico"
             }
           },
           "f8c9fb1d-735d-47dc-bff2-361bb11c9d3d": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Otterbox_250x80px.jpg",
-              "link": "shopify:\/\/collections\/otterbox"
+              "image": "shopify://shop_images/Otterbox_250x80px.jpg",
+              "link": "shopify://collections/otterbox"
             }
           },
           "11e34731-3b9e-44dc-a0ac-33e224a5fe88": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Panasonic_250x80px.jpg",
-              "link": "shopify:\/\/collections\/panasonic"
+              "image": "shopify://shop_images/Panasonic_250x80px.jpg",
+              "link": "shopify://collections/panasonic"
             }
           },
           "54c7192c-e81c-403a-afd1-20b6ead2d29e": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Philips_250x80px.jpg",
-              "link": "shopify:\/\/collections\/philips"
+              "image": "shopify://shop_images/Philips_250x80px.jpg",
+              "link": "shopify://collections/philips"
             }
           },
           "f847e884-65a5-42db-9246-2e4bdf782112": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Pioneer_250x80px.jpg",
-              "link": "shopify:\/\/collections\/pioneer"
+              "image": "shopify://shop_images/Pioneer_250x80px.jpg",
+              "link": "shopify://collections/pioneer"
             }
           },
           "0050f7da-38bb-4e73-96e7-e24ffd17cde1": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Plantronics_250x80px.jpg",
-              "link": "shopify:\/\/collections\/plantronics"
+              "image": "shopify://shop_images/Plantronics_250x80px.jpg",
+              "link": "shopify://collections/plantronics"
             }
           },
           "33ba2158-daa8-435c-8df0-5dfcf4de5ee8": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Powershield_250x80px.jpg",
-              "link": "shopify:\/\/collections\/powershield"
+              "image": "shopify://shop_images/Powershield_250x80px.jpg",
+              "link": "shopify://collections/powershield"
             }
           },
           "239b9d34-11b4-4978-a043-d4d389ed6105": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Pro2_250x80px.jpg",
-              "link": "shopify:\/\/collections\/pro-2"
+              "image": "shopify://shop_images/Pro2_250x80px.jpg",
+              "link": "shopify://collections/pro-2"
             }
           },
           "1570620170395-4": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/RANS.jpg",
-              "link": "shopify:\/\/collections\/rans"
+              "image": "shopify://shop_images/RANS.jpg",
+              "link": "shopify://collections/rans"
             }
           },
           "6ad588d3-39d1-46a9-9474-b76bbd6a2c18": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Roccat_250x80px.jpg",
-              "link": "shopify:\/\/collections\/roccat"
+              "image": "shopify://shop_images/Roccat_250x80px.jpg",
+              "link": "shopify://collections/roccat"
             }
           },
           "23d32d3e-3c22-4006-a935-dbd22b4a8d14": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Samsung_250x80px.jpg",
-              "link": "shopify:\/\/collections\/samsung"
+              "image": "shopify://shop_images/Samsung_250x80px.jpg",
+              "link": "shopify://collections/samsung"
             }
           },
           "1570620170395-5": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/SanDisk-Logo-1995.png",
-              "link": "shopify:\/\/collections\/sandisk"
+              "image": "shopify://shop_images/SanDisk-Logo-1995.png",
+              "link": "shopify://collections/sandisk"
             }
           },
           "92f4de80-fe4a-4be8-96cc-f295da65abfc": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Seagate_250x80px.jpg",
-              "link": "shopify:\/\/collections\/seagate"
+              "image": "shopify://shop_images/Seagate_250x80px.jpg",
+              "link": "shopify://collections/seagate"
             }
           },
           "5b9255e1-fb20-4abd-82b7-ba422603fa7d": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Sennheiser-Logo.wine.png",
-              "link": "shopify:\/\/collections\/sennheiser"
+              "image": "shopify://shop_images/Sennheiser-Logo.wine.png",
+              "link": "shopify://collections/sennheiser"
             }
           },
           "92095d9e-e8b0-47ab-949e-11e28abc5c91": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Shintaro_250x80px.jpg",
-              "link": "shopify:\/\/collections\/shintaro"
+              "image": "shopify://shop_images/Shintaro_250x80px.jpg",
+              "link": "shopify://collections/shintaro"
             }
           },
           "4b54cac0-cd2b-42b7-95f0-c9df649b433d": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Simplecom_250x80px.jpg",
-              "link": "shopify:\/\/collections\/simplecom"
+              "image": "shopify://shop_images/Simplecom_250x80px.jpg",
+              "link": "shopify://collections/simplecom"
             }
           },
           "815d753a-f765-46e7-aec0-8c5a210ab0f9": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Socomec_250x80px.jpg",
-              "link": "shopify:\/\/collections\/socomec"
+              "image": "shopify://shop_images/Socomec_250x80px.jpg",
+              "link": "shopify://collections/socomec"
             }
           },
           "eb52a780-2922-4f3f-ad1d-e0c90d84d9ca": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Soga_250x80px_f059bf8c-cdc8-4d49-87d8-4b39755a4715.jpg",
-              "link": "shopify:\/\/collections\/soga"
+              "image": "shopify://shop_images/Soga_250x80px_f059bf8c-cdc8-4d49-87d8-4b39755a4715.jpg",
+              "link": "shopify://collections/soga"
             }
           },
           "2af9b32e-a9d8-402e-8002-24e833ba07be": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Sony_250x80px.jpg",
-              "link": "shopify:\/\/collections\/sony"
+              "image": "shopify://shop_images/Sony_250x80px.jpg",
+              "link": "shopify://collections/sony"
             }
           },
           "abc34808-163d-4f3a-a321-5d0c7735e91b": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Starry-Eucalypt.jpg",
-              "link": "shopify:\/\/collections\/starry-eucalypt"
+              "image": "shopify://shop_images/Starry-Eucalypt.jpg",
+              "link": "shopify://collections/starry-eucalypt"
             }
           },
           "2acbcf9d-e758-4ce3-98e6-d017b5956c36": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Startech_250x80px.jpg",
-              "link": "shopify:\/\/collections\/startech-com"
+              "image": "shopify://shop_images/Startech_250x80px.jpg",
+              "link": "shopify://collections/startech-com"
             }
           },
           "fa69f00a-5cb4-4192-a560-211de2bcfe23": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/STm_250x80px.jpg",
-              "link": "shopify:\/\/collections\/stm"
+              "image": "shopify://shop_images/STm_250x80px.jpg",
+              "link": "shopify://collections/stm"
             }
           },
           "d40c9750-d6bb-4648-85e1-3940201a4e5e": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Synology_250x80px.jpg",
-              "link": "shopify:\/\/collections\/synology"
+              "image": "shopify://shop_images/Synology_250x80px.jpg",
+              "link": "shopify://collections/synology"
             }
           },
           "e7d3173c-b00f-4633-965d-3b0fd91bea56": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Targus_250x80px.jpg",
-              "link": "shopify:\/\/collections\/targus"
+              "image": "shopify://shop_images/Targus_250x80px.jpg",
+              "link": "shopify://collections/targus"
             }
           },
           "c5089429-91a4-461b-a6e8-4425f7810e5f": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Tenda_250x80px.jpg",
-              "link": "shopify:\/\/collections\/tenda"
+              "image": "shopify://shop_images/Tenda_250x80px.jpg",
+              "link": "shopify://collections/tenda"
             }
           },
           "1f95c9fc-ea0d-4f71-960a-6886227d3941": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Thermaltake_250x80px.jpg",
-              "link": "shopify:\/\/collections\/thermaltake"
+              "image": "shopify://shop_images/Thermaltake_250x80px.jpg",
+              "link": "shopify://collections/thermaltake"
             }
           },
           "28c26942-fb5c-4f59-9d1d-51b72a0861d9": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Thrustmaster_250x80px.jpg",
-              "link": "shopify:\/\/collections\/thrustmaster"
+              "image": "shopify://shop_images/Thrustmaster_250x80px.jpg",
+              "link": "shopify://collections/thrustmaster"
             }
           },
           "9a52a6d9-4198-44e2-9a04-aa3653b03020": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Toshiba_250x80px.jpg",
-              "link": "shopify:\/\/collections\/toshiba"
+              "image": "shopify://shop_images/Toshiba_250x80px.jpg",
+              "link": "shopify://collections/toshiba"
             }
           },
           "2e589c38-d335-4ed0-a036-324da6cfc56c": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/TpLink_250x80px.jpg",
-              "link": "shopify:\/\/collections\/tp-link"
+              "image": "shopify://shop_images/TpLink_250x80px.jpg",
+              "link": "shopify://collections/tp-link"
             }
           },
           "8e56542f-86cc-4c87-b778-4cf8d8f974c5": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/troforte.png",
-              "link": "shopify:\/\/collections\/troforte"
+              "image": "shopify://shop_images/troforte.png",
+              "link": "shopify://collections/troforte"
             }
           },
           "5e90c6d2-72ef-4a8e-8e8c-c3f901c1b0ae": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Ubiquiti_250x80px.jpg",
-              "link": "shopify:\/\/collections\/ubiquiti"
+              "image": "shopify://shop_images/Ubiquiti_250x80px.jpg",
+              "link": "shopify://collections/ubiquiti"
             }
           },
           "0e66c74d-e531-4043-a8d5-b99dc836caa2": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/UGGComfortMe_250x80px.jpg",
-              "link": "shopify:\/\/collections\/ugg"
+              "image": "shopify://shop_images/UGGComfortMe_250x80px.jpg",
+              "link": "shopify://collections/ugg"
             }
           },
           "d86c9114-fb89-48e5-9b26-8129414b517e": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/ULTech_250x80px.jpg",
-              "link": "shopify:\/\/collections\/ul-tech"
+              "image": "shopify://shop_images/ULTech_250x80px.jpg",
+              "link": "shopify://collections/ul-tech"
             }
           },
           "44e05834-8bb5-4779-b0c7-54a0309e2be7": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/WD_250x80px.jpg",
-              "link": "shopify:\/\/collections\/wd"
+              "image": "shopify://shop_images/WD_250x80px.jpg",
+              "link": "shopify://collections/wd"
             }
           },
           "54bc29bd-9ad6-4172-9fdc-95d6ea63a934": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Xerox_250x80px.jpg",
-              "link": "shopify:\/\/collections\/xerox"
+              "image": "shopify://shop_images/Xerox_250x80px.jpg",
+              "link": "shopify://collections/xerox"
             }
           },
           "6564f8ce-1a88-473b-8b95-d5db8ff2c809": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Yealink_250x80px.jpg",
-              "link": "shopify:\/\/collections\/yealink"
+              "image": "shopify://shop_images/Yealink_250x80px.jpg",
+              "link": "shopify://collections/yealink"
             }
           },
           "faf98871-7c11-489a-ada9-c9edbea56c33": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Zebra_250x80px.jpg",
-              "link": "shopify:\/\/collections\/zebra"
+              "image": "shopify://shop_images/Zebra_250x80px.jpg",
+              "link": "shopify://collections/zebra"
             }
           }
         },
@@ -1686,11 +1695,10 @@
           "6564f8ce-1a88-473b-8b95-d5db8ff2c809",
           "faf98871-7c11-489a-ada9-c9edbea56c33"
         ],
-        "disabled": true,
         "settings": {
           "title": "Brands",
           "link_title": "View All",
-          "link": "shopify:\/\/collections\/brands"
+          "link": "shopify://collections/brands"
         }
       },
       "cart-template": {
@@ -1732,10 +1740,10 @@
       "1570871216962": {
         "type": "featured-product",
         "settings": {
-          "product": "revlon-one-step-volumiser-plus-2-0-blowout-61mm-brush",
+          "product": "revlon-one-step-volumiser-original-1-0-blowout-brush-mint",
           "title": "Product of the month",
           "link_title": "",
-          "link_url": "https:\/\/www.simplywholesale.com.au\/products\/revlon-one-step-volumiser-plus-2-0-blowout-61mm-brush",
+          "link_url": "https://www.simplywholesale.com.au/products/revlon-one-step-volumiser-original-1-0-blowout-brush-mint",
           "show_vendor": false,
           "show_sku": false,
           "show_share_buttons": true,
@@ -1763,7 +1771,7 @@
           "stack_desktop": false,
           "show_quick_buy": false,
           "link_title": "View all",
-          "link_url": "shopify:\/\/collections\/sale-items"
+          "link_url": "shopify://collections/sale-items"
         }
       },
       "1571306000691": {
@@ -1788,13 +1796,13 @@
     ],
     "blocks": {
       "6468128024931565999": {
-        "type": "shopify:\/\/apps\/seguno-popups\/blocks\/popup-app-embed\/f53bd66f-9a20-4ce2-ae2e-ccbd0148bd4b",
+        "type": "shopify://apps/seguno-popups/blocks/popup-app-embed/f53bd66f-9a20-4ce2-ae2e-ccbd0148bd4b",
         "disabled": false,
         "settings": {
         }
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#ffa500",
@@ -1806,45 +1814,39 @@
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
         }
       },
       "12120936241911852800": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/reviews_tab/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
           "position": "right"
         }
       },
       "18194548382691877002": {
-        "type": "shopify:\/\/apps\/smps-google-customer-reviews\/blocks\/gcr_block\/b8ef3a86-e7fc-44e2-9d94-227e6b8ca222",
+        "type": "shopify://apps/smps-google-customer-reviews/blocks/gcr_block/b8ef3a86-e7fc-44e2-9d94-227e6b8ca222",
         "disabled": false,
         "settings": {
         }
       },
       "14327677521557774844": {
-        "type": "shopify:\/\/apps\/simprosys-google-shopping-feed\/blocks\/core_settings_block\/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
+        "type": "shopify://apps/simprosys-google-shopping-feed/blocks/core_settings_block/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
         "disabled": false,
         "settings": {
         }
       },
       "15181020662106344915": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/popup_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/popup_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
         }
       },
       "16881471024131275657": {
-        "type": "shopify:\/\/apps\/searchanise-search-filter\/blocks\/app-embed\/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "10384935893930344104": {
-        "type": "shopify:\/\/apps\/seoant-redirects\/blocks\/brokenlink-404\/cc7b1996-e567-42d0-8862-356092041863",
-        "disabled": false,
+        "type": "shopify://apps/searchanise-search-filter/blocks/app-embed/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
+        "disabled": true,
         "settings": {
         }
       }
@@ -1896,7 +1898,7 @@
       "low_inventory_threshold": 0,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_free_shipping_threshold": false,
       "cart_free_shipping_threshold": "50",
       "share_image": "",
@@ -1948,7 +1950,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -1961,7 +1963,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -2076,7 +2078,7 @@
           "settings": {
             "title": "Our collections",
             "link_title": "View all",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
           }
         },
         "featured-product": {
@@ -2136,7 +2138,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         },
         "1542984811767": {
@@ -2153,7 +2155,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         },
         "1542984882560": {
@@ -2218,7 +2220,7 @@
       "low_inventory_threshold": 1,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_free_shipping_threshold": true,
       "cart_free_shipping_threshold": "50",
       "checkout_logo_position": "center",
@@ -2255,7 +2257,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -2268,7 +2270,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -2383,7 +2385,7 @@
           "settings": {
             "title": "Our collections",
             "link_title": "View all",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
           }
         },
         "collection-template": {
@@ -2431,7 +2433,7 @@
             "link": "",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         },
         "1542984811767": {

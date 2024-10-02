@@ -5384,8 +5384,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       key: '_paginationPageChanged',
       value: function _paginationPageChanged(event, target) {
         event.preventDefault();
-        let currentUrl = new URL(window.location.href);
-        this.currentUrl = currentUrl;
+
         this.currentUrl.searchParams.set('page', parseInt(target.getAttribute('data-page')));
         this._reload(true);
       }
