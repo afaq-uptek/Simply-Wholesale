@@ -11,7 +11,7 @@
         <li class="list-item {% if link.active %}active{% endif %}">
           <a href="{{ link.url }}" class="menu-link">{{ link.title }}</a>
         </li>
-        {% if link.levels > 1 %}
+        {% if link.levels > 0 %}
           <ul class="subMenu-list">
             {% for childLink in link.links %}
               <li class="list-item {% if childLink.active %}active{% endif %}">
