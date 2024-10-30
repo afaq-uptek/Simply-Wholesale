@@ -1,0 +1,26 @@
+<div
+  id="snize_filters_block_department"
+  class="snize-product-filters-block department-filter-menu"
+  style="display: none;">
+  <div class="snize-product-filters-title">
+    <span>Department</span>
+  </div>
+  <ul class="filter-menu-list department-list snize-product-filters-list">
+    {% for link in linklists['main-menu'].links %}
+      {% if link.active or link.child_active %}
+        <li class="list-item {% if link.active %}active{% endif %}">
+          <a href="{{ link.url }}" class="menu-link">{{ link.title }}</a>
+        </li>
+        {% if link.levels > 1 %}
+          <ul class="subMenu-list">
+            {% for childLink in link.links %}
+              <li class="list-item {% if childLink.active %}active{% endif %}">
+                <a href="{{ childLink.url }}" class="menu-link">{{ childLink.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

@@ -2316,6 +2316,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           event.stopPropagation();
         }
 
+        console.log(this);
         document.querySelector('[aria-controls="mobile-collection-filters"]').setAttribute('aria-expanded', 'false');
         document.getElementById('mobile-collection-filters').setAttribute('aria-hidden', 'true');
       }

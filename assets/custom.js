@@ -33,3 +33,14 @@
  *   bubbles: true
  * }));
  */
+document.addEventListener('Searchanise.Loaded', function () {
+    (function ($) {
+         $(document).on('Searchanise.ResultsUpdated', function(event, container) {
+               // code that adds your content block inside the app's filters block here
+               const filtersDiv = container[0].querySelector('.snize-product-filters');
+               const departmentDiv = document.querySelector('#snize_filters_block_department');
+               filtersDiv.insertBefore(departmentDiv, filtersDiv.firstChild);
+               departmentDiv.style.display = 'block';
+         });
+    })(window.Searchanise.$);
+});
