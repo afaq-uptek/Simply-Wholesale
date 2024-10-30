@@ -467,7 +467,7 @@
           "collection-0": {
             "type": "collection",
             "settings": {
-              "collection": "health-beauty",
+              "collection": "health-beauty-1",
               "image": "shopify://shop_images/beauty.jpeg"
             }
           },
@@ -502,7 +502,7 @@
           "collection-5": {
             "type": "collection",
             "settings": {
-              "collection": "baby-kids-toys",
+              "collection": "toys-kids-baby",
               "image": "shopify://shop_images/kids.jpeg"
             }
           }
@@ -1695,6 +1695,7 @@
           "6564f8ce-1a88-473b-8b95-d5db8ff2c809",
           "faf98871-7c11-489a-ada9-c9edbea56c33"
         ],
+        "disabled": true,
         "settings": {
           "title": "Brands",
           "link_title": "View All",
@@ -1740,10 +1741,10 @@
       "1570871216962": {
         "type": "featured-product",
         "settings": {
-          "product": "revlon-one-step-volumiser-original-1-0-blowout-brush-mint",
+          "product": "revlon-one-step-volumiser-plus-2-0-blowout-61mm-brush",
           "title": "Product of the month",
           "link_title": "",
-          "link_url": "https://www.simplywholesale.com.au/products/revlon-one-step-volumiser-original-1-0-blowout-brush-mint",
+          "link_url": "https://www.simplywholesale.com.au/products/revlon-one-step-volumiser-plus-2-0-blowout-61mm-brush",
           "show_vendor": false,
           "show_sku": false,
           "show_share_buttons": true,
@@ -1846,7 +1847,13 @@
       },
       "16881471024131275657": {
         "type": "shopify://apps/searchanise-search-filter/blocks/app-embed/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
-        "disabled": true,
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "10384935893930344104": {
+        "type": "shopify://apps/seoant-redirects/blocks/brokenlink-404/cc7b1996-e567-42d0-8862-356092041863",
+        "disabled": false,
         "settings": {
         }
       }
